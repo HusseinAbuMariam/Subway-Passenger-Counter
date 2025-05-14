@@ -1,0 +1,31 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image:url(imges/andras-joo-oQ80Jli44kI-unsplash.jpg) ;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    color: rgb(206, 218, 32);
+
+}
+
+#message-el {
+    font-style: italic;
+}
+#start-btn,
+#new-btn{
+    color:#016f32 ;
+    width: 150px;
+    background: goldenrod;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top:5px ;
+    padding-bottom: 5px;
+    border-radius: 2px;
+    border:none;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
